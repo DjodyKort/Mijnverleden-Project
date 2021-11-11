@@ -1,11 +1,15 @@
+                                                                          /* Djody */
 body {
   background-color: whitesmoke;
-  margin: 0px;
-  font-family: roboto;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  overflow-y: scroll;
 }
 
-/* Styling navigation bar */
-ul {
+/* Styling top bar */
+
+nav ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -15,8 +19,8 @@ ul {
 .Titel{
     float: left;
 }
-li a {
-    margin-left: 40vw; 
+nav li a {
+    margin-left: 41vw; 
     font-size: 50px;
     font-family: 'IBM Plex Sans', sans-serif;
     display: block;
@@ -25,4 +29,155 @@ li a {
     padding: 16px 16px;
     text-decoration: none;
     }
-/* End styling navigation bar */
+nav li a:hover{
+  opacity: 0.7;
+}
+/* End styling top bar */
+
+
+
+/* Begin styling sidebar */
+.sidebar{
+  position:       fixed;
+  width:          15vw;
+  height:         100vh;
+  border-color: grey;
+  border-right:   1px solid;
+}
+                                                                          /* End Djody */
+                                                                          /* Dinand */
+.sidebar button:hover{
+  opacity: 0.7;
+}
+.sidebar button {
+  background-color: rgb(134, 134, 134);
+  color: white;
+  border: none;
+  font-size: 32px;
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-weight: bold;
+                                                                            /* End Dinand */
+                                                                            /* Djody */
+  width: 100%;
+  margin-top: 15%;
+}
+                                                                          /* End Djody */
+                                                                          /* Dinand */
+  .button-LevenAls{
+    margin-top: 15%;
+  }
+
+ .GeschiedenisMijnen{
+   margin-top: 15%;
+}
+                                                                          /* End Dinand */
+                                                                          /* Djody */
+.sidebar a{
+  text-decoration: none;
+  color: rgb(252, 249, 249);
+}
+                                                                          /* End Djody */
+/* End styling sidebar */
+
+/* Styling Geschiedenis mijnen */
+
+.text-geschiedenismijnen{
+  margin-left: 25vw;
+  margin-top: 20h;
+}
+
+/* End styling geschiedenis mijnen */
+                                                                          /* Djody */
+/* Styling hoofdpagina */
+.text-hoofdpagina{
+  margin-left: 25vw;
+  margin-top: 5vh;
+}
+/* End styling hoofdpagina */
+
+/* Styling About us Page */
+.aboutus-table{
+  float:  right;
+  margin-top: 5vh ;
+  width: 85vw;
+  margin-right:-2vw;
+}
+td,th {
+  text-align: left;
+  width: 25%;
+}
+                                                                          /* End Djody */
+/* End Styling About us Page */
+/* Pictures */
+.vogel-foto{
+  float: right;
+  margin-right: 12px;
+}
+
+.bewerkte-foto1{
+  margin-top: 15px;
+  margin-bottom: 30px;
+}
+/* End Pictures */
+                                                                          /* Auke */
+/* Styling Leven als een mijnwerker */
+
+.LevenAls{
+  margin-left: 25vw;
+  margin-top: 5vh;
+}
+
+/* End Styling Leven als een mijnwerker */
+
+/* Styling Staatsmijn-Hendrik */
+
+.Staatsmijn-Hendrik{
+  margin-left: 25vw;
+  margin-top: 5vh;
+}
+
+/* End Styling Staatsmijn-Hendrik */
+                                                                          /* End Auke */
+
+
+                                                                          /* Djody */
+/* Styling Geschiedenis Heerlen */
+
+/* Text */
+.geschiedenis-heerlen-container{
+  width: 60%;
+  margin-left: 20vw;
+}
+.text-center{
+  text-align: center;
+}
+/* End text */
+/* Foto */
+
+.geschiedenis-heerlen-foto1{
+margin-left:  15vw;
+width:        600px;
+}
+.geschiedenis-heerlen-foto2{
+margin-left:  15vw;
+width:        600px;
+}
+.geschiedenis-heerlen-foto3{
+margin-left:  15vw;
+width:        600px;
+}
+.geschiedenis-heerlen-foto4{
+margin-left:  15vw;
+width:        600px;
+}
+/* End foto */
+/* End Styling Geschiedenis Heerlen */
+                                                                          /* End Djody */
+                                                                          /* Dinand */
+/* Styling Kerkrade */                                                    
+.text-kerkrade{
+  margin-left: 25vw;
+  margin-top: 10vh;
+}
+/* End Styling Kerkrade */
+                                                                            /* Einde Dinand */
