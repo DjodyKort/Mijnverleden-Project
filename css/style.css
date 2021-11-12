@@ -56,13 +56,10 @@ nav li a:hover{
   font-size: 32px;
   font-family: 'IBM Plex Sans', sans-serif;
   font-weight: bold;
-                                                                            /* End Dinand */
-                                                                            /* Djody */
   width: 100%;
   margin-top: 15%;
 }
-                                                                          /* End Djody */
-                                                                          /* Dinand */
+
   .button-LevenAls{
     margin-top: 15%;
   }
@@ -78,14 +75,14 @@ nav li a:hover{
 }
                                                                           /* End Djody */
 /* End styling sidebar */
-
+                                                                          /* Dinand */
 /* Styling Geschiedenis mijnen */
 
 .text-geschiedenismijnen{
   margin-left: 25vw;
   margin-top: 20h;
 }
-
+                                                                          /* End Dinand */
 /* End styling geschiedenis mijnen */
                                                                           /* Djody */
 /* Styling hoofdpagina */
@@ -105,8 +102,8 @@ nav li a:hover{
 td,th {
   text-align: left;
   width: 25%;
-}
-                                                                          /* End Djody */
+}                                                                       /* End Djody */
+                                                                          /* Dinand */
 /* End Styling About us Page */
 /* Pictures */
 .vogel-foto{
@@ -118,6 +115,7 @@ td,th {
   margin-top: 15px;
   margin-bottom: 30px;
 }
+                                                                          /* End Dinand */
 /* End Pictures */
                                                                           /* Auke */
 /* Styling Leven als een mijnwerker */
