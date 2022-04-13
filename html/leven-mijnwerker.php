@@ -28,7 +28,7 @@
 <body>
     <nav>
         <ul>
-            <li class='Titel'><a href="./leven-mijnwerker.html" style='margin-left: 38vw;'><b>Leven als</b> een
+            <li class='Titel'><a href="./leven-mijnwerker.php" style='margin-left: 38vw;'><b>Leven als</b> een
                     mijnwerker</a></li>
         </ul>
     </nav>
@@ -36,15 +36,15 @@
 
                                                                                                             <!-- Dinand -->
     <div class='sidebar'>
-        <button><a href='../index.html'> Hoofdpagina </a> </button>
+        <button><a href='../index.php'> Hoofdpagina </a> </button>
         <br style="clear:both" />
-        <button class='GeschiedenisMijnen'><a href='./geschiedenis-mijnen.html'>Geschiedenis Mijnen</a></button>
-        <button class='button-LevenAls' height='20%'><a href='./leven-mijnwerker.html'> Leven als een Mijnwerker
+        <button class='GeschiedenisMijnen'><a href='./geschiedenis-mijnen.php'>Geschiedenis Mijnen</a></button>
+        <button class='button-LevenAls' height='20%'><a href='./leven-mijnwerker.php'> Leven als een Mijnwerker
             </a></button>
-        <button><a href='./geschiedenis-heerlen.html'> Geschiedenis Heerlen </a></button>
-        <button><a href='./geschiedenis-brunssum.html'>Geschiedenis Brunssum </a></button>
-        <button><a href='./geschiedenis-kerkrade.html'>Geschiedenis Kerkrade </a></button>
-        <button><a href='./About-us.html'>About us</a></button>
+        <button><a href='./geschiedenis-heerlen.php'> Geschiedenis Heerlen </a></button>
+        <button><a href='./geschiedenis-brunssum.php'>Geschiedenis Brunssum </a></button>
+        <button><a href='./geschiedenis-kerkrade.php'>Geschiedenis Kerkrade </a></button>
+        <button><a href='./About-us.php'>About us</a></button>
     </div>
                                                                                                             <!-- End Dinand -->
                                                                                                             <!-- Auke -->

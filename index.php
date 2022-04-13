@@ -26,21 +26,21 @@
 <body>
     <nav>
         <ul>
-            <li class='Titel'><a href="./index.html"><b>Hoofd</b>pagina</a></li>
+            <li class='Titel'><a href="./index.php"><b>Hoofd</b>pagina</a></li>
         </ul>
     </nav>
                                                                                                         <!-- End Djody -->
                                                                                                         <!-- Dinand -->
         <div class='sidebar'>
-            <button><a href='index.html'>Hoofdpagina</a> </button>
+            <button><a href='index.php'>Hoofdpagina</a> </button>
             <br style="clear:both" />
-            <button class='GeschiedenisMijnen'><a href='./html/geschiedenis-mijnen.html'>Geschiedenis Mijnen</a></button>
-            <button class='button-LevenAls' height='20%'><a href='./html/leven-mijnwerker.html'> Leven als een Mijnwerker
+            <button class='GeschiedenisMijnen'><a href='./html/geschiedenis-mijnen.php'>Geschiedenis Mijnen</a></button>
+            <button class='button-LevenAls' height='20%'><a href='./html/leven-mijnwerker.php'> Leven als een Mijnwerker
                 </a></button>
-            <button><a href='./html/geschiedenis-heerlen.html'> Geschiedenis Heerlen </a></button>
-            <button><a href='./html/geschiedenis-brunssum.html'>Geschiedenis Brunssum </a></button>
-            <button><a href='./html/geschiedenis-kerkrade.html'>Geschiedenis Kerkrade </a></button>
-            <button><a href='./html/About-us.html'>About us</a></button>
+            <button><a href='./html/geschiedenis-heerlen.php'> Geschiedenis Heerlen </a></button>
+            <button><a href='./html/geschiedenis-brunssum.php'>Geschiedenis Brunssum </a></button>
+            <button><a href='./html/geschiedenis-kerkrade.php'>Geschiedenis Kerkrade </a></button>
+            <button><a href='./html/About-us.php'>About us</a></button>
         </div>
         <div class='text-hoofdpagina'>
             <h2>Deze website gaat over mijn verleden in Nederland</h2>
